@@ -1,0 +1,60 @@
+body {
+    background-color: rgba(246, 246, 246, 0.888);
+  }
+
+.header {
+    text-align: center;
+    font-size: 4vw;
+}
+
+.pic0 {
+    width: 50%;
+}
+
+.pic1 {
+    width: 40%;
+    margin-right: 30px;
+    margin-left: 2px;
+    float: left;
+}
+
+.pic2 {
+    width: 40%;
+    margin-left: 30px;
+    margin-right: 2px;
+    float: right;
+}
+
+.pic3 {
+    width: 40%;
+    margin-right: 30px;
+    margin-left: 2px;
+    float: left;
+}
+
+.p2 {
+    text-align: justify;
+    float: right;
+    font-size: 1.9vw;
+    margin-top: 30px;
+    margin-right: 2px;
+    display: inline-block;
+}
+
+.p3 {
+    text-align: justify;
+    float: left;
+    font-size: 1.9vw;
+    margin-top: 30px;
+    margin-left: 2px;
+    display: inline-block;
+}
+
+.p4 {
+    text-align: justify;
+    float: right;
+    font-size: 1.9vw;
+    margin-top: 30px;
+    margin-right: 2px;
+    display: inline-block;
+}
